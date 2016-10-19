@@ -1,0 +1,2 @@
+      invoke  active_record
+    conflict    db/migrate/20161019061837_add_reset_to_users.rb
